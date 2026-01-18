@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Rasstube - Accueil</title>
+    <style>
+        /* Ça c'est pour faire joli */
+        body { font-family: Arial; text-align: center; background-color: #111; color: white; }
+        .barre-rouge { background-color: #ff0000; padding: 20px; font-size: 24px; font-weight: bold; }
+        .cadre-video { width: 80%; height: 300px; background: #333; margin: 50px auto; border: 3px dashed #555; display: flex; align-items: center; justify-content: center; }
+    </style>
+</head>
+<body>
+    <div class="barre-rouge">🎬 RASSTUBE .NET</div>
+    <h1>Bienvenue sur mon site</h1>
+    <p>Le futur du partage vidéo commence ici !</p>
+    
+    <div class="cadre-video">
+        <p>Ma future vidéo apparaîtra ici</p>
+    </div>
+</body>
+</html>
